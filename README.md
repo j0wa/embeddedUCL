@@ -14,6 +14,6 @@ The **device** folder contains the source code for the motes on Contiki.
 
 The **interface.py** file contains the user interface that allows to manage the devices by a external user.
 
-The **server-computer.py" file contains the try of the server for the computer side.
+The **server-computer.py** file contains the try of the server for the computer side.
 
 The **embeddedUCL.csc** file contains the simulation saved on Contiki with the motes correctly placed inside the environment.
